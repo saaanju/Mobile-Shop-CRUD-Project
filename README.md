@@ -46,7 +46,7 @@ Delete an existing mobile record after confirming the deletion.
 ### 6. Exit
 Exit the Mobile Shop Management System.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3**
 - Lists
